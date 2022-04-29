@@ -79,7 +79,7 @@
 		<dc:contributor id="transcriber-2">woodie4</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Al Haines &amp;amp</dc:contributor>
+		<dc:contributor id="transcriber-3">Al Haines &amp;</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
