@@ -49,46 +49,51 @@
 		<meta property="term" refines="#subject-6">sh2008102069</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">5</meta>
+		<dc:description id="description">A London bookseller’s “grand passion” for hoarding money threatens his own happiness as well as those closest to him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Riceyman Steps&lt;/i&gt;, first published in 1923, is set in “dingy and sordid” Clerkenwell, in central London, where “existence was a dangerous and difficult adventure in almost frantic quest of food, drink and shelter.” It’s there that Henry Earlforward runs a gloomy, dusty store full of secondhand books. He eats less and less with every day, keeps his young servant Elsie working long hours for minimal pay, and never lights a candle or turns on the lights when darkness will do. One day he takes notice of Violet, a middle-aged widow who owns a confectionary shop nearby, and they become husband and wife soon after.&lt;/p&gt;
+			&lt;p&gt;It’s quickly clear that his miserliness, his “grand passion and vice,” has rubbed off on Violet, threatening her chances at happiness just as much as his. His obsession also imperils Elsie’s ability to help her lover Joe, who became shell-shocked fighting in World War I and who desperately needs her.&lt;/p&gt;
+			&lt;p&gt;The year it was published &lt;i&gt;Riceyman Steps&lt;/i&gt; won the &lt;a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners"&gt;James Tait Black Memorial Prize for Fiction&lt;/a&gt;. Its tragic tone represents a departure from many of the novels and stories &lt;a href="https://standardebooks.org/ebooks/arnold-bennett"&gt;Arnold Bennett&lt;/a&gt; set in the “Five Towns,” the fictional location inspired by his Staffordshire childhood. Instead, it reflects the pain and disappointment of the years immediately following the “Great War.” As Earlforward tells a customer early on, “We’re not quite straight here yet. The truth is, we haven’t been straight since 1914.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/58666</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/riceymansteps0000unse</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Riceyman_Steps</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arnold-bennett_riceyman-steps</meta>
 		<dc:creator id="author">Arnold Bennett</dc:creator>
 		<meta property="file-as" refines="#author">Bennett, Arnold</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Enoch Arnold Bennett</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arnold_Bennett</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79095154</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Walter Sickert</dc:contributor>
+		<meta property="se:name.person.full-name" refines="#artist">Walter Richard Sickert</meta>
+		<meta property="file-as" refines="#artist">Sickert, Walter</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Walter_Sickert</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50024008</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David T. Jones</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Jones, David T.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">woodie4</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">woodie4</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Al Haines &amp;</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-3">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders Canada</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders Canada</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">http://www.pgdpcanada.net</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">John Rambow</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rambow, John</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://johnrambow.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
