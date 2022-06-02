@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arnold-bennett/riceyman-steps</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-06-02T19:38:55Z</dc:date>
+		<meta property="dcterms:modified">2022-06-02T19:38:55Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -55,15 +55,15 @@
 		<meta property="group-position" refines="#collection-1">5</meta>
 		<dc:description id="description">A London bookseller’s “grand passion” for hoarding money threatens his own happiness as well as those closest to him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Riceyman Steps&lt;/i&gt;, first published in 1923, is set in “dingy and sordid” Clerkenwell, in central London, where “existence was a dangerous and difficult adventure in almost frantic quest of food, drink and shelter.” It’s there that Henry Earlforward runs a gloomy, dusty store full of secondhand books. He eats less and less with every day, keeps his young servant Elsie working long hours for minimal pay, and never lights a candle or turns on the lights when darkness will do. One day he takes notice of Violet, a middle-aged widow who owns a confectionary shop nearby, and they become husband and wife soon after.&lt;/p&gt;
-			&lt;p&gt;It’s quickly clear that his miserliness, his “grand passion and vice,” has rubbed off on Violet, threatening her chances at happiness just as much as his. His obsession also imperils Elsie’s ability to help her lover Joe, who became shell-shocked fighting in World War I and who desperately needs her.&lt;/p&gt;
-			&lt;p&gt;The year it was published &lt;i&gt;Riceyman Steps&lt;/i&gt; won the &lt;a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners"&gt;James Tait Black Memorial Prize for Fiction&lt;/a&gt;. Its tragic tone represents a departure from many of the novels and stories &lt;a href="https://standardebooks.org/ebooks/arnold-bennett"&gt;Arnold Bennett&lt;/a&gt; set in the “Five Towns,” the fictional location inspired by his Staffordshire childhood. Instead, it reflects the pain and disappointment of the years immediately following the “Great War.” As Earlforward tells a customer early on, “We’re not quite straight here yet. The truth is, we haven’t been straight since 1914.”&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Riceyman Steps&lt;/i&gt;, first published in 1923, is set in “dingy and sordid” Clerkenwell, in central London, where “existence was a dangerous and difficult adventure in almost frantic quest of food, drink and shelter.” It’s there that Henry Earlforward runs a gloomy, dusty store full of secondhand books. He eats less and less with every day, keeps his young servant Elsie working long hours for minimal pay, and never lights a candle when darkness will do. One day he takes notice of Violet, a middle-aged widow who owns a confectionary shop nearby, and they become husband and wife soon after.&lt;/p&gt;
+			&lt;p&gt;It quickly becomes clear that his miserliness, his “grand passion and vice,” has rubbed off on Violet, threatening her chances at happiness just as much as his. His obsession also imperils Elsie’s ability to help her lover Joe, who returned from World War I with shell shock, and who desperately needs her.&lt;/p&gt;
+			&lt;p&gt;The year it was published &lt;i&gt;Riceyman Steps&lt;/i&gt; won the &lt;a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners"&gt;James Tait Black Memorial Prize for Fiction&lt;/a&gt;. Its tragic tone represents a departure from many of the novels and stories &lt;a href="https://standardebooks.org/ebooks/arnold-bennett"&gt;Arnold Bennett&lt;/a&gt; set in the “Five Towns,” the fictional location inspired by his Staffordshire childhood. Instead, it reflects the pain and disappointment of the years immediately following the Great War. As Earlforward tells a customer early on, “We’re not quite straight here yet. The truth is, we haven’t been straight since 1914.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/58666</dc:source>
 		<dc:source>https://archive.org/details/riceymansteps0000unse</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">96942</meta>
+		<meta property="se:reading-ease.flesch">75.0</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Riceyman_Steps</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arnold-bennett_riceyman-steps</meta>
 		<dc:creator id="author">Arnold Bennett</dc:creator>
@@ -100,6 +100,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
